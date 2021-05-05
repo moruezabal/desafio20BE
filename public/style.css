@@ -1,0 +1,13 @@
+.email{
+    color: blue;
+    font-weight: bold;
+}
+
+.text{
+    color: brown;
+}
+
+.date{
+    color: green;
+    font-style: italic;
+}
